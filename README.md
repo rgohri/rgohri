@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rgohri
-- 👀 I’m interested in web design, including graphics and backend programming.
-- 🌱 I’m currently learning Graphic Design and Web programming (HTML/CSS/JS) 
+- 👀 I’m interested in web design, including graphics and backend programming, as well as Artificial Intelligence for automating corporate tasks (including legal contract review and mattern management) 
+- 🌱 I’m currently learning about AI and custom GPTs.
+- I also use Microsoft Power Platform to build custom solutions for corporate entities.
 
 
 <!---
